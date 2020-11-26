@@ -1,1 +1,1 @@
-# goit-react-hw-06-phonebook-redux-tookit
+# goit-react-hw-06-phonebook-redux-toolkit
